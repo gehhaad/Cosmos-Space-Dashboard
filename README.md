@@ -47,6 +47,21 @@ This project helped me practice:
 
 The interface was designed to provide a responsive experience across different screen sizes, including desktop and mobile devices.
 
+## Screenshots
+
+### Dashboard
+
+[Cosmos Space Dashboard](screenshots/dashboard.jpeg)
+
+### Launches
+
+[Space Launches](screenshots/launches.jpeg)
+
+### Planets
+
+[Planets](screenshots/planets.jpeg)
+
+
 ## Project Structure
 
 
@@ -60,3 +75,9 @@ Cosmos-Space-Dashboard/
 │   └── images/
 │
 └── README.md
+│
+└── screenshots/
+    ├── dashboard.jpeg
+    ├── launches.jpeg
+    └── planets.jpeg
+
