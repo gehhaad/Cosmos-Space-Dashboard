@@ -51,15 +51,15 @@ The interface was designed to provide a responsive experience across different s
 
 ### Dashboard
 
-[Cosmos Space Dashboard](screenshots/dashboard.jpeg)
+![Cosmos Space Dashboard](screenshots/dashboard.jpeg)
 
 ### Launches
 
-[Space Launches](screenshots/launches.jpeg)
+![Space Launches](screenshots/launches.jpeg)
 
 ### Planets
 
-[Planets](screenshots/planets.jpeg)
+![Planets](screenshots/planets.jpeg)
 
 
 ## Project Structure
