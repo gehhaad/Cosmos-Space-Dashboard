@@ -64,7 +64,7 @@ The interface was designed to provide a responsive experience across different s
 
 ## Project Structure
 
-
+```text
 Cosmos-Space-Dashboard/
 │
 ├── index.html
